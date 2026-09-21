@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+###`npm install`
+
+This installs all required packages listed in package.json (including react-scripts). This step is required before running the app — without it, you'll get a 'react-scripts' is not recognized error.
 
 ### `npm start`
 
